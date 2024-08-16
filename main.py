@@ -5,4 +5,6 @@ for num in my_list:
 
 
 print("rize baskanığ")
+print("rize baskanığ")
+
 
